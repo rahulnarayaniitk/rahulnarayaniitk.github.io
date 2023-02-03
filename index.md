@@ -1,5 +1,5 @@
 # Rahul Narayan
--2nd year undergrad at IITK.
+- 2nd year undergrad at IITK.
 ### Personal Portfolio
 
 ### Education
