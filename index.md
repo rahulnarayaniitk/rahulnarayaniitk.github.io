@@ -1,6 +1,6 @@
 # Rahul Narayan
 - 2nd year undergrad at IITK.
-### Personal Portfolio
+
 
 ### Education
 - Matriculation from St. Paul Sr. Secondary School, Begusarai, Bihar with 92.7%.
