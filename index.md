@@ -9,6 +9,6 @@
 
 ### Skill
 #### Programming Languages
-- C, C++, JAVA
+- C, C++, JAVA, JAVASCRIPT
 #### Other Languages
 - HTML, CSS
