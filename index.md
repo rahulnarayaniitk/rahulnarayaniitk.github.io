@@ -4,7 +4,7 @@
 
 ### Education
 - Matriculation from St. Paul Sr. Secondary School, Begusarai, Bihar with 92.7%.
-- Intermediate from St. Paul Sr. Secondary School, Begusarai, Bihar with 89.4%.
+- Intermediate from St. Paul Sr. Secondary School, Begusarai, Bihar with 89%.
 - Currently doing my undergratuation in Electrical Engineering at IIT Kanpur.
 
 ### Skill
