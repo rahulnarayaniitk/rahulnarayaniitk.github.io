@@ -8,7 +8,7 @@
 - Currently doing my undergratuation in Electrical Engineering at IIT Kanpur.
 
 ### Skill
-#### Programming Languages
+####  Programming Languages
 - C, C++, JAVA, JAVASCRIPT
-#### Other Languages
+####  Other Languages
 - HTML, CSS
